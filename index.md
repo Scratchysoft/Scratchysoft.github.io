@@ -1,5 +1,5 @@
 # Scratchysoft
 
-Welcome to the Scratchysoft website, the home of cool tech projectsand new free software.
+Welcome to the Scratchysoft website, the home of cool tech projects and new free software.
 
-[Link]()
+[Old Site](scratchysoft.github.io/home)
